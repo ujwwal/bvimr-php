@@ -1,1 +1,17 @@
-﻿<?php $i=700000; switch(true){case $i<=250000:$t=0;break;case $i<=500000:$t=($i-250000)*0.05;break;case $i<=1000000:$t=12500+($i-500000)*0.2;break;default:$t=112500+($i-1000000)*0.3;} echo $t; echo "<br>"; echo "Program written and executed by Ujjwal Gupta of BCA 6 Morning, ERP: 0231BCA051";
+<?php
+// Q25: WAP to demonstrate income tax according to slabs (using switch case).
+$i=700000;
+ switch(true){
+    case $i<=250000:$t=0;
+    break;
+    case $i<=500000:$t=($i-250000)*0.05;
+    break;
+    case $i<=1000000:$t=12500+($i-500000)*0.2;
+    break;
+    default:$t=112500+($i-1000000)*0.3;
+
+} echo $t;
+ echo "<br>";
+
+echo "Program written and executed by Ujjwal Gupta of BCA 6 Morning, ERP: 0231BCA051";
+?>

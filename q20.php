@@ -1,1 +1,8 @@
-﻿<?php define("PI",3.14); echo PI; echo "<br>"; echo "Program written and executed by Ujjwal Gupta of BCA 6 Morning, ERP: 0231BCA051";
+<?php
+// Q20: WAP to demonstrate constants.
+define("PI",3.14);
+ echo PI;
+ echo "<br>";
+
+echo "Program written and executed by Ujjwal Gupta of BCA 6 Morning, ERP: 0231BCA051";
+?>

@@ -1,1 +1,11 @@
-﻿<?php $i=1; while($i<=3){echo $i." ";$i++;} echo "<br>"; echo "Program written and executed by Ujjwal Gupta of BCA 6 Morning, ERP: 0231BCA051";
+<?php
+// Q27: WAP to demonstrate while loop.
+$i=1;
+ while($i<=3){
+    echo $i." ";
+    $i++;
+
+} echo "<br>";
+
+echo "Program written and executed by Ujjwal Gupta of BCA 6 Morning, ERP: 0231BCA051";
+?>

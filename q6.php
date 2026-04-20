@@ -1,1 +1,9 @@
-﻿<?php $a=true; $b=false; var_dump($a,$b); echo "<br>"; echo "Program written and executed by Ujjwal Gupta of BCA 6 Morning, ERP: 0231BCA051";
+<?php
+// Q6: WAP to demonstrate boolean datatype.
+$a=true;
+ $b=false;
+ var_dump($a,$b);
+ echo "<br>";
+
+echo "Program written and executed by Ujjwal Gupta of BCA 6 Morning, ERP: 0231BCA051";
+?>
