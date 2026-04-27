@@ -62,3 +62,12 @@
 62. Write a PHP code to open a file.
 63. Write a PHP code to demonstrate reading of data from file using fgets().
 64. Write a PHP code to demonstrate writing data into a file.
+65. Customized birthday message using PHP built-in date/time functions.
+66. Jewelry store weekly Gold/Silver/Diamond rates using array + foreach; calculate highest, lowest, average.
+67. Nested loop pattern:
+0
+12
+345
+6789
+68. Employee salary calculator: Basic Salary, HRA 20%, DA 10%, Gross Salary, 10% tax, Net Salary; store in associative array and display in HTML table.
+69. Create array of city names, sort alphabetically, display sorted list, and show cities starting with D.

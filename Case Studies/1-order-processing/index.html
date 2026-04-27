@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h2>Order Form</h2>
+<form action="process_order.php" method="POST">
+  Name: <input type="text" name="name" required><br><br>
+  Product: <input type="text" name="product" required><br><br>
+  Price: <input type="number" name="price" required min="1"><br><br>
+  Quantity: <input type="number" name="qty" required min="1"><br><br>
+  <input type="submit" value="Place Order">
+</form>
+<br><a href="admin.php">View All Orders</a>
+</body>
+</html>
